@@ -1,8 +1,11 @@
 import './App.css';
+import React from 'react';
+import Detal from './companent/detal';
+
 
 function App() {
   return (
-   <h1>Salom</h1>
+    <Detal />
   );
 }
 
