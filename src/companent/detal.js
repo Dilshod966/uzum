@@ -19,6 +19,7 @@ const detal = () => {
                 </div>
             </div>
         </div>
+        
     )
 }
 

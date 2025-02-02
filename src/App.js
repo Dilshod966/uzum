@@ -1,11 +1,13 @@
 import './App.css';
 import React from 'react';
-import Detal from './companent/detal';
+import Navbar from './companent/Navbar';
 
 
 function App() {
   return (
-    <Detal />
+    <div>
+      <Navbar/>
+    </div>
   );
 }
 
