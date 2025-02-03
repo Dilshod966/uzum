@@ -6,20 +6,24 @@ header {
     font-size: 19px;
     margin: 25px 100px;
 }
+
 ul {
     display: flex;
     align-items: center;
     list-style-type: none;
+    
+    
 }
 ul li {
     display: flex;
     align-items: center;
     margin: 0 11px;
+
     
 }
 .orqa_fon {
     padding: 8px 12px;
-    border-radius: 5px;
+    border-radius: 7px;
     transition: 0.9s;
 }
 
@@ -55,9 +59,12 @@ ul li:nth-child(3) {
 }
 
 ul li button {
+    text-align: center;
+    line-height: 30px;
     font-size: 19px;
     height: 35px;
     border: none;
     padding: 5px;
     width: 55px;
+    color: rgb(91, 91, 91);
 }

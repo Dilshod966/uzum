@@ -23,7 +23,7 @@
     transform: scale(1.023);
 }
 
-span {
+.detal_box span {
     font-size: 15px;
     color: slategrey;
 }
@@ -32,7 +32,7 @@ span {
     text-decoration: line-through;
 }
 
-p {
+.detal_box p {
     font-size: 19px;
     
 }
