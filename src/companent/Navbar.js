@@ -23,7 +23,9 @@ export default function Navbar() {
                 <NavLink to="/register"><li className="orqa_fon"><CgAdd/><span>Ro'yhatdan O'tish</span></li></NavLink>
             </ul>
         </div>
-
+        <div>
+          
+        </div>
     </header>
   )
 }
